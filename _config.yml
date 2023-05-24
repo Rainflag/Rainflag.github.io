@@ -4,7 +4,7 @@ header-img: "img/flower.jpg"
 tagline: "cn"  
 description: "欢迎来到我们的花店网站"  # 一句话描述你的博客
 baseurl: ""
-url: "这里写地址？"  # 此处填写你的博客地址 
+#url: ""  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
@@ -17,11 +17,11 @@ gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 #douban_username:  # 你的豆瓣id
-twitter_username: 这在哪里
-github_username: 这又在那里
-facebook_username: 这个呢
-weibo_username: 还有这个呢
-zhihu_username: 最后是这个
+#twitter_username: 
+#github_username: 
+#facebook_username: 
+#weibo_username: 
+#zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "我在哪" # 你的名字
+      author: "陈禹岐" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
