@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 这是缘迁花店模板
 date: 2023-5-24
 categories: blog
