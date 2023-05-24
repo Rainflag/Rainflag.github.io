@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "关于花店"
-description: ""  
+title: "关于我们"
+description: "白雪公组，是哈尔滨理工大学的一群学生在创新创业基础课上形成的团队，组长为么晟辉，组员为李佳睿、尹雪峰、郑文夫、陈禹岐"  
 header-img: "img/semantic.jpg"  
 ---
 
@@ -11,7 +11,6 @@ header-img: "img/semantic.jpg"
 2. 点击它
 3. 相关的文章会「唰」地一声跳到页面顶端
 4. 马上试试？
-5.试试就试试
 ##基因列表
 
 
