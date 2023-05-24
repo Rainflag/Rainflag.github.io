@@ -28,7 +28,7 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+#permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
