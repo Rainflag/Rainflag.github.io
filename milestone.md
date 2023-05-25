@@ -5,7 +5,7 @@ description: "正在研发"
 header-img: "img/zhihu.jpg"
 ---
 
-这个页面显示可购买花束并且能够通过标签筛选。
+这一页负责添加配送订单。
 
 
 
