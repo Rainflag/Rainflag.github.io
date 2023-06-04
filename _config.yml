@@ -8,7 +8,7 @@ baseurl: ""
 
 # About/contact
 owner: 
-  name: "陈禹岐" # 填写作者信息：名字
+  name: "白雪公组" # 填写作者信息：名字
   email: 664324057@qq.com # 填写作者信息：邮箱
   bio: "白雪公组组员" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "陈禹岐" # 你的名字
+      author: "白雪公组" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
