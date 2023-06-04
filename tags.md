@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我们"
+title: "在线客服"
 description: "白雪公组，是哈尔滨理工大学的一群学生在创新创业基础课上形成的团队，组长为么晟辉，组员为李佳睿、尹雪峰、郑文夫、陈禹岐"  
 header-img: "img/semantic.jpg"  
 ---
