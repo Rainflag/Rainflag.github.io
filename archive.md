@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "花卉选购"
-description: "目前缺货"
+description: "个性定制，选你所想"
 header-img: "img/orange.jpg"
 ---
 
